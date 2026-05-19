@@ -32,7 +32,7 @@ while True:
  c.send(ClientMessage.encode())
 ```
 ## OUPUT
-##CLIENT
+## CLIENT
 <img width="962" height="318" alt="Screenshot 2026-05-19 111301" src="https://github.com/user-attachments/assets/b9d69ed2-eafe-4e68-aad2-05d094e1ddd4" />
 
 ## SERVER
